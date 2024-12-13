@@ -15,3 +15,4 @@ Daftar film dari aplikasi ini diambil dari API TMDb
 2. Marsel Wungow - 220211060041
 3. Firza Eka Putra - 220211060074
 
+Link Video Presentasi Aplikasi: https://drive.google.com/drive/folders/1f1pN3N290QpRcPCTThLZpFOJd9OvQGUt?usp=sharing 
